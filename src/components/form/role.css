@@ -1,0 +1,11 @@
+select {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px 2.5%;
+    margin: 10px 0 25px;
+    color: #494949;
+    font-size: 1.05em;
+    border: none;
+    background-color: rgba(245, 245, 245, 0.87);
+}

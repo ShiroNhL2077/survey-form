@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+}
+
+#title {
+    letter-spacing: 2px;
+    margin: 0;
+    color: #f3f3f3;
+    font-size: 36px;
+}
+
+#description {
+    font-size: 20px;
+    color: #f3f3f3a6;
+}

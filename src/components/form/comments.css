@@ -1,0 +1,17 @@
+.comments label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.comments textarea {
+    min-width: 95%;
+    max-width: 95%;
+    min-height: 5rem;
+    max-height: 10rem;
+    border-radius: 5px;
+    padding: 10px 2.5%;
+    font-size: 1.3em;
+    border: none;
+    background-color: rgba(245, 245, 245, 0.87);
+    margin-bottom: 25px;
+}

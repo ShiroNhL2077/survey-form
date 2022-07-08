@@ -1,0 +1,21 @@
+.radio-group p {
+    font-size: 1.5em;   
+}
+
+.radio-group {
+    margin-bottom: 25px;
+}
+
+.rad {
+    display: block;
+    margin-bottom: 10px;
+    padding: 2px 0;
+}
+
+
+input[type="radio"] {
+    height:25px; 
+    width:25px; 
+    vertical-align: middle;
+    margin-right: 10px;
+}

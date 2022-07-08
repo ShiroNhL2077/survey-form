@@ -1,0 +1,13 @@
+form {
+    padding: 0 1.5%;
+    width: 97%;
+    color: #f3f3f3;
+}
+
+label {
+    font-size: 1.5em;
+}
+
+::placeholder {
+    color: #494949;
+}
